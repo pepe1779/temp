@@ -1,0 +1,5 @@
+El repositorio funciona correctamente
+probado repositorio publico
+probado repositorio privado
+y probada opcion de multiples usuarios de git con un solo usuario linux
+abriendo en dos el archivo config
